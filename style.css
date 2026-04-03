@@ -1,0 +1,19 @@
+.bg-main {
+    background-color: #191818 !important;
+}
+
+.text-main {
+
+}
+
+.text-orange {
+    color: #f8a000;
+}
+
+body {
+    height: 2000px;
+}
+
+.carousel-caption {
+    bottom: 50% !important;
+}
